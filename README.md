@@ -1,0 +1,1 @@
+Built an interactive sales dashboard in Excel tracking total sales over time and ranking the top 10 sales reps by order volume. Incorporated timeline filters and regional slicers to enable dynamic data exploration across quarters and sales territories.
